@@ -1,5 +1,10 @@
 # Elixir Notes
 
+## Coolness
+
+Guard clauses on function definitions allow for some nice, clean separation of
+different behavior for edge cases, etc.
+
 ## Oddities
 
 Lists are odd in that Elixir (because Erlang?) treats lists that can be as
